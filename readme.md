@@ -1,0 +1,1 @@
+A demo app to present a solution for a multi-type handler
